@@ -1,0 +1,632 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "medium-2-md, Converts medium posts (html) into Jekyll/Hugo compatible markdown files",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-16T11:35:37Z",
+            "owner": "gautamdhameja",
+            "repo": "medium-2-md",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HUGE - A Hugo Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-06-20T13:29:20Z",
+            "owner": "theNewDynamic",
+            "repo": "huge",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Actions for Hugo extended",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T02:05:28Z",
+            "owner": "peaceiris",
+            "repo": "actions-hugo",
+            "stars": 1573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Victor Hugo (starter repo for using Webpack)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-12-23T20:45:28Z",
+            "owner": "netlify-templates",
+            "repo": "victor-hugo",
+            "stars": 1509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugo + Gulp starter project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-08-07T18:24:54Z",
+            "owner": "jbrodriguez",
+            "repo": "hugulp",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugo Landing Page",
+          "description": "(demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-02-14T08:41:10Z",
+            "owner": "ttntm",
+            "repo": "hugo-landing-page",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hugo-bin: Binary wrapper for Hugo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T18:50:04Z",
+            "owner": "fenneclab",
+            "repo": "hugo-bin",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugo's Pipes functionality using TailwindCSS and PurgeCSS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-06T17:39:52Z",
+            "owner": "budparr",
+            "repo": "hugopipes-tailwindcss",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Image for Hugo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-12T20:57:56Z",
+            "owner": "hubci",
+            "repo": "hugo-docker",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugo Webpack Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-09-30T17:51:36Z",
+            "owner": "vseventer",
+            "repo": "hugo-webpack-boilerplate",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Action to build Hugo site",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-07T12:25:58Z",
+            "owner": "lowply",
+            "repo": "build-hugo",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugo Starter with Gulp Asset Pipeline, SVG Icons, partials for global components, metadata, and social.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-04-24T19:08:57Z",
+            "owner": "rdwatters",
+            "repo": "hugo-starter",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugo + Tailwind boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-20T17:48:30Z",
+            "owner": "ttntm",
+            "repo": "hugo-tailwind-boilerplate",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugo + Tailwind 3 - SEO Optimized Starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2022-03-12T16:39:41Z",
+            "owner": "BenjaminPrice",
+            "repo": "hugo-tailwind3-starter",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HUGE starter: PostCSS, Tailwind and React",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2021-09-23T15:56:38Z",
+            "owner": "theNewDynamic",
+            "repo": "huge-starter",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HUGE basic starter: NPM free, SCSS and vanilla JS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-09-11T16:48:46Z",
+            "owner": "theNewDynamic",
+            "repo": "huge-starter-tailwind-react",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugo Theme Starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-20T18:17:52Z",
+            "owner": "misitebao",
+            "repo": "hugo-theme-starter",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atlas: Hugo boilerplate",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Starters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hugo-notice",
+          "description": "A Hugo theme component to display nice notices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-15T21:03:03Z",
+            "owner": "martignoni",
+            "repo": "hugo-notice",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hugo-cloak-email",
+          "description": "A Hugo theme component to cloak email addresses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-09-20T05:57:20Z",
+            "owner": "martignoni",
+            "repo": "hugo-cloak-email",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hugo-cite",
+          "description": "A Hugo theme component which uses CSL-JSON to create (academic) bibliography sections for pages and posts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-24T16:46:39Z",
+            "owner": "loup-brun",
+            "repo": "hugo-cite",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hugo-chart",
+          "description": "A Hugo theme component to display beautiful Charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-05-17T16:11:34Z",
+            "owner": "shen-yu",
+            "repo": "hugo-chart",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hugo-responsive-images",
+          "description": "A Hugo theme component for generating responsive images with srcset tags. Supports lazysizes for automatic sizes property and lazyloading polyfill.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-02T13:07:11Z",
+            "owner": "future-wd",
+            "repo": "hugo-responsive-images",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hudo-redirect",
+          "description": "A Hugo theme component to setup URL redirections/aliasing on Hugo sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-03-14T20:13:00Z",
+            "owner": "gcc42",
+            "repo": "hugo-redirect",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hugo-social-metadata",
+          "description": "A Hugo theme component to generate social metadata.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-04-06T07:24:33Z",
+            "owner": "msfjarvis",
+            "repo": "hugo-social-metadata",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hugo-loremipsum",
+          "description": "A Hugo theme component to generate Lorem ipsum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-03-29T09:01:27Z",
+            "owner": "martignoni",
+            "repo": "hugo-loremipsum",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hugo-inline-svg",
+          "description": "A theme component for inlining SVG. Comes with CSS for displaying as blog, or inline with text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-06-21T12:38:27Z",
+            "owner": "future-wd",
+            "repo": "hugo-inline-svg",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hugo-github-calendar",
+          "description": "A Hugo theme component for creating a graph of your GitHub contributions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-03-31T10:21:47Z",
+            "owner": "totoroot",
+            "repo": "hugo-github-calendar",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Theme Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bootstrap",
+          "description": "(repo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-08-13T03:36:08Z",
+            "owner": "twbs",
+            "repo": "bootstrap",
+            "stars": 174579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kubernetes",
+          "description": "(repo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T21:29:44Z",
+            "owner": "kubernetes",
+            "repo": "website",
+            "stars": 5337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Let's Encrypt",
+          "description": "(repo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T00:03:45Z",
+            "owner": "letsencrypt",
+            "repo": "website",
+            "stars": 909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datadoghq",
+          "description": "(repo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T00:33:44Z",
+            "owner": "DataDog",
+            "repo": "documentation",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forestry.io",
+          "description": "(repo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-07-19T00:41:48Z",
+            "owner": "forestryio",
+            "repo": "forestry.io",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vote.gov",
+          "description": "(repo)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2024-08-11T09:38:19Z",
+            "owner": "usagov",
+            "repo": "vote-gov",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "statsandr.com",
+          "description": "(repo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-02T12:34:01Z",
+            "owner": "AntoineSoetewey",
+            "repo": "statsandr",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpotlightPA",
+          "description": "(repo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T01:43:05Z",
+            "owner": "spotlightpa",
+            "repo": "poor-richard",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tomango",
+          "description": "(repo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-09-28T09:56:20Z",
+            "owner": "trys",
+            "repo": "tomango-2018",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rick Cogley Central",
+          "description": "(repo)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-04-05T08:23:29Z",
+            "owner": "RickCogley",
+            "repo": "RCC-Hugo2015",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cinematt",
+          "description": "(repo)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2018-10-28T18:13:16Z",
+            "owner": "matfin",
+            "repo": "cinematt",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eSolia",
+          "description": "(repo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-11-16T10:03:37Z",
+            "owner": "eSolia",
+            "repo": "eSolia_2018",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Projects using Hugo"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Major Release for Hugo",
+          "description": "By Steve Francia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:39:51Z",
+            "owner": "gohugoio",
+            "repo": "hugo",
+            "stars": 89427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A lightweight, fuzzy, client-side search template for Hugo",
+          "description": "By Zachary Betz.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-13T19:02:04Z",
+            "owner": "zwbetz-gh",
+            "repo": "hugo-client-side-search-template",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Articles"
+    },
+    {
+      "description": "Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the guidelines. Thank you!\nMaintained by Bud Parr at The New Dynamic.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:53.583Z",
+    "original_repository": "theNewDynamic/awesome-hugo",
+    "original_repository_sha": "1b9e60f84af2d5d7156ad5092d2bc7df4ac6580f",
+    "enhanced_repository": "enhansome/enhansome-hugo",
+    "enhanced_repository_description": null,
+    "title": "Awesome Hugo with stars"
+  }
+}
