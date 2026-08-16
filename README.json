@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T18:50:04Z",
+            "last_commit": "2026-08-16T05:32:35Z",
             "owner": "fenneclab",
             "repo": "hugo-bin",
             "stars": 96
@@ -421,7 +421,7 @@
             "last_commit": "2026-08-13T03:36:08Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174591
+            "stars": 174599
           }
         },
         {
@@ -432,7 +432,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T05:42:14Z",
+            "last_commit": "2026-08-16T12:44:14Z",
             "owner": "kubernetes",
             "repo": "website",
             "stars": 5337
@@ -516,7 +516,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T02:11:26Z",
+            "last_commit": "2026-08-16T04:29:00Z",
             "owner": "spotlightpa",
             "repo": "poor-richard",
             "stars": 31
@@ -592,10 +592,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T08:25:20Z",
+            "last_commit": "2026-08-15T18:42:57Z",
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89427
+            "stars": 89433
           }
         },
         {
@@ -622,7 +622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:02:32.085Z",
+    "last_updated": "2026-08-16T14:05:03.537Z",
     "original_repository": "theNewDynamic/awesome-hugo",
     "original_repository_sha": "1b9e60f84af2d5d7156ad5092d2bc7df4ac6580f",
     "enhanced_repository": "enhansome/enhansome-hugo",
