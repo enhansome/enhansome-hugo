@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T05:32:35Z",
+            "last_commit": "2026-08-18T09:47:34Z",
             "owner": "fenneclab",
             "repo": "hugo-bin",
             "stars": 96
@@ -418,10 +418,10 @@
           "repo_info": {
             "archived": false,
             "language": "MDX",
-            "last_commit": "2026-08-13T03:36:08Z",
+            "last_commit": "2026-08-18T09:04:43Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174601
+            "stars": 174609
           }
         },
         {
@@ -432,10 +432,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-17T09:48:21Z",
+            "last_commit": "2026-08-18T03:35:04Z",
             "owner": "kubernetes",
             "repo": "website",
-            "stars": 5338
+            "stars": 5340
           }
         },
         {
@@ -460,7 +460,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T13:56:49Z",
+            "last_commit": "2026-08-18T14:15:06Z",
             "owner": "DataDog",
             "repo": "documentation",
             "stars": 614
@@ -516,7 +516,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-17T13:53:29Z",
+            "last_commit": "2026-08-18T09:03:02Z",
             "owner": "spotlightpa",
             "repo": "poor-richard",
             "stars": 31
@@ -592,10 +592,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:28:23Z",
+            "last_commit": "2026-08-18T08:30:09Z",
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89440
+            "stars": 89439
           }
         },
         {
@@ -622,7 +622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:12:48.620Z",
+    "last_updated": "2026-08-18T14:17:59.101Z",
     "original_repository": "theNewDynamic/awesome-hugo",
     "original_repository_sha": "1b9e60f84af2d5d7156ad5092d2bc7df4ac6580f",
     "enhanced_repository": "enhansome/enhansome-hugo",
