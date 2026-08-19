@@ -450,10 +450,10 @@
             "archived": false,
             "id": 51478266,
             "language": "HTML",
-            "last_commit": "2026-08-19T05:57:05Z",
+            "last_commit": "2026-08-19T13:47:10Z",
             "owner": "kubernetes",
             "repo": "website",
-            "stars": 5343
+            "stars": 5345
           }
         },
         {
@@ -480,7 +480,7 @@
             "archived": false,
             "id": 2967233,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:00:54Z",
+            "last_commit": "2026-08-19T14:11:13Z",
             "owner": "DataDog",
             "repo": "documentation",
             "stars": 614
@@ -525,7 +525,7 @@
             "archived": false,
             "id": 228437645,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:17:52Z",
+            "last_commit": "2026-08-19T12:57:22Z",
             "owner": "AntoineSoetewey",
             "repo": "statsandr",
             "stars": 42
@@ -540,7 +540,7 @@
             "archived": false,
             "id": 189018814,
             "language": "HTML",
-            "last_commit": "2026-08-19T08:57:05Z",
+            "last_commit": "2026-08-19T13:06:29Z",
             "owner": "spotlightpa",
             "repo": "poor-richard",
             "stars": 31
@@ -621,10 +621,10 @@
             "archived": false,
             "id": 11180687,
             "language": "Go",
-            "last_commit": "2026-08-19T11:13:55Z",
+            "last_commit": "2026-08-19T13:47:59Z",
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89446
+            "stars": 89448
           }
         },
         {
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:35:10.117Z",
+    "last_updated": "2026-08-19T14:19:02.081Z",
     "original_repository": "theNewDynamic/awesome-hugo",
     "original_repository_id": 158039560,
     "original_repository_sha": "1b9e60f84af2d5d7156ad5092d2bc7df4ac6580f",
