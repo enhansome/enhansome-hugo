@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 160074951,
             "language": "JavaScript",
             "last_commit": "2024-05-16T11:35:37Z",
             "owner": "gautamdhameja",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 384494521,
             "language": "HTML",
             "last_commit": "2025-06-20T13:29:20Z",
             "owner": "theNewDynamic",
@@ -40,7 +37,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -49,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187902720,
             "language": "TypeScript",
             "last_commit": "2026-08-17T02:06:26Z",
             "owner": "peaceiris",
@@ -63,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62660511,
             "language": "JavaScript",
             "last_commit": "2021-12-23T20:45:28Z",
             "owner": "netlify-templates",
@@ -77,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33946486,
             "language": "JavaScript",
             "last_commit": "2021-08-07T18:24:54Z",
             "owner": "jbrodriguez",
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279887263,
             "language": "HTML",
             "last_commit": "2024-02-14T08:41:10Z",
             "owner": "ttntm",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60016210,
             "language": "JavaScript",
             "last_commit": "2026-08-18T09:47:34Z",
             "owner": "fenneclab",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142098994,
             "language": "JavaScript",
             "last_commit": "2020-05-06T17:39:52Z",
             "owner": "budparr",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85594334,
             "language": "Dockerfile",
             "last_commit": "2026-08-12T20:57:56Z",
             "owner": "hubci",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83586439,
             "language": "JavaScript",
             "last_commit": "2017-09-30T17:51:36Z",
             "owner": "vseventer",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172324663,
             "language": "Shell",
             "last_commit": "2026-08-13T10:15:40Z",
             "owner": "lowply",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49848358,
             "language": "CSS",
             "last_commit": "2018-04-24T19:08:57Z",
             "owner": "rdwatters",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255059723,
             "language": "JavaScript",
             "last_commit": "2024-03-20T17:48:30Z",
             "owner": "ttntm",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 468727682,
             "language": "HTML",
             "last_commit": "2022-03-12T16:39:41Z",
             "owner": "BenjaminPrice",
@@ -217,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402105671,
             "language": "SCSS",
             "last_commit": "2021-09-23T15:56:38Z",
             "owner": "theNewDynamic",
@@ -231,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402552864,
             "language": "SCSS",
             "last_commit": "2023-09-11T16:48:46Z",
             "owner": "theNewDynamic",
@@ -245,24 +256,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 510537937,
             "language": "JavaScript",
             "last_commit": "2023-04-20T18:17:52Z",
             "owner": "misitebao",
             "repo": "hugo-theme-starter",
             "stars": 6
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Atlas: Hugo boilerplate",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Starters"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -271,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173473490,
             "language": "HTML",
             "last_commit": "2026-01-15T21:03:03Z",
             "owner": "martignoni",
@@ -285,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169308708,
             "language": "HTML",
             "last_commit": "2024-09-20T05:57:20Z",
             "owner": "martignoni",
@@ -299,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254955331,
             "language": "HTML",
             "last_commit": "2024-05-24T16:46:39Z",
             "owner": "loup-brun",
@@ -313,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299220500,
             "language": "Go",
             "last_commit": "2023-05-17T16:11:34Z",
             "owner": "shen-yu",
@@ -327,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521521246,
             "language": "HTML",
             "last_commit": "2026-06-02T13:07:11Z",
             "owner": "future-wd",
@@ -341,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261793082,
             "language": "HTML",
             "last_commit": "2021-03-14T20:13:00Z",
             "owner": "gcc42",
@@ -355,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237826178,
             "language": "HTML",
             "last_commit": "2024-04-06T07:24:33Z",
             "owner": "msfjarvis",
@@ -369,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178369301,
             "language": "HTML",
             "last_commit": "2019-03-29T09:01:27Z",
             "owner": "martignoni",
@@ -383,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544305936,
             "language": "HTML",
             "last_commit": "2024-06-21T12:38:27Z",
             "owner": "future-wd",
@@ -397,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586223771,
             "language": "CSS",
             "last_commit": "2023-03-31T10:21:47Z",
             "owner": "totoroot",
@@ -408,7 +424,7 @@
       "title": "Theme Components"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -417,11 +433,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-18T09:04:43Z",
+            "last_commit": "2026-08-19T02:15:32Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174609
+            "stars": 174612
           }
         },
         {
@@ -431,11 +448,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51478266,
             "language": "HTML",
-            "last_commit": "2026-08-18T03:35:04Z",
+            "last_commit": "2026-08-19T05:57:05Z",
             "owner": "kubernetes",
             "repo": "website",
-            "stars": 5340
+            "stars": 5343
           }
         },
         {
@@ -445,8 +463,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62476427,
             "language": "HTML",
-            "last_commit": "2026-08-14T15:39:22Z",
+            "last_commit": "2026-08-18T20:41:46Z",
             "owner": "letsencrypt",
             "repo": "website",
             "stars": 909
@@ -459,8 +478,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2967233,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T14:15:06Z",
+            "last_commit": "2026-08-19T12:00:54Z",
             "owner": "DataDog",
             "repo": "documentation",
             "stars": 614
@@ -473,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115075945,
             "language": "HTML",
             "last_commit": "2023-07-19T00:41:48Z",
             "owner": "forestryio",
@@ -487,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57156495,
             "language": "HTML",
             "last_commit": "2024-08-11T09:38:19Z",
             "owner": "usagov",
@@ -501,8 +523,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228437645,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T13:38:21Z",
+            "last_commit": "2026-08-19T12:17:52Z",
             "owner": "AntoineSoetewey",
             "repo": "statsandr",
             "stars": 42
@@ -515,8 +538,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189018814,
             "language": "HTML",
-            "last_commit": "2026-08-18T09:03:02Z",
+            "last_commit": "2026-08-19T08:57:05Z",
             "owner": "spotlightpa",
             "repo": "poor-richard",
             "stars": 31
@@ -529,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150718754,
             "language": "HTML",
             "last_commit": "2018-09-28T09:56:20Z",
             "owner": "trys",
@@ -543,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34147361,
             "language": "HTML",
             "last_commit": "2023-04-05T08:23:29Z",
             "owner": "RickCogley",
@@ -557,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 92753679,
             "language": "HTML",
             "last_commit": "2018-10-28T18:13:16Z",
             "owner": "matfin",
@@ -571,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127094401,
             "language": "HTML",
             "last_commit": "2025-11-16T10:03:37Z",
             "owner": "eSolia",
@@ -582,7 +610,7 @@
       "title": "Projects using Hugo"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -591,11 +619,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11180687,
             "language": "Go",
-            "last_commit": "2026-08-18T08:30:09Z",
+            "last_commit": "2026-08-19T11:13:55Z",
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89439
+            "stars": 89446
           }
         },
         {
@@ -605,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 513744827,
             "language": "JavaScript",
             "last_commit": "2024-11-13T19:02:04Z",
             "owner": "zwbetz-gh",
@@ -614,16 +644,12 @@
         }
       ],
       "title": "Articles"
-    },
-    {
-      "description": "Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the guidelines. Thank you!\nMaintained by Bud Parr at The New Dynamic.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:17:59.101Z",
+    "last_updated": "2026-08-19T12:35:10.117Z",
     "original_repository": "theNewDynamic/awesome-hugo",
+    "original_repository_id": 158039560,
     "original_repository_sha": "1b9e60f84af2d5d7156ad5092d2bc7df4ac6580f",
     "enhanced_repository": "enhansome/enhansome-hugo",
     "enhanced_repository_description": null,
