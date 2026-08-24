@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T09:36:58Z",
                 "owner": "gohugoio",
                 "repo": "hugo",
-                "stars": 89520
+                "stars": 89521
               }
             }
           ],
@@ -530,7 +530,7 @@
             "archived": false,
             "id": 2967233,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:10:41Z",
+            "last_commit": "2026-08-24T14:47:23Z",
             "owner": "DataDog",
             "repo": "documentation",
             "stars": 614
@@ -674,7 +674,7 @@
             "last_commit": "2026-08-24T09:36:58Z",
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89520
+            "stars": 89521
           }
         },
         {
@@ -697,7 +697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:47.019Z",
+    "last_updated": "2026-08-24T14:48:18.744Z",
     "original_repository": "theNewDynamic/awesome-hugo",
     "original_repository_id": 158039560,
     "original_repository_sha": "1b9e60f84af2d5d7156ad5092d2bc7df4ac6580f",
