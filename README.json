@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "gohugoio/hugo",
               "description": null,
               "children": [],
               "repo_info": {
@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T09:36:58Z",
                 "owner": "gohugoio",
                 "repo": "hugo",
-                "stars": 89521
+                "stars": 89535
               }
             }
           ],
@@ -485,10 +485,10 @@
             "archived": false,
             "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-22T03:57:33Z",
+            "last_commit": "2026-08-24T20:35:07Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174640
+            "stars": 174646
           }
         },
         {
@@ -500,10 +500,10 @@
             "archived": false,
             "id": 51478266,
             "language": "HTML",
-            "last_commit": "2026-08-24T14:07:03Z",
+            "last_commit": "2026-08-25T05:23:00Z",
             "owner": "kubernetes",
             "repo": "website",
-            "stars": 5348
+            "stars": 5350
           }
         },
         {
@@ -515,7 +515,7 @@
             "archived": false,
             "id": 62476427,
             "language": "HTML",
-            "last_commit": "2026-08-21T06:59:05Z",
+            "last_commit": "2026-08-24T19:50:17Z",
             "owner": "letsencrypt",
             "repo": "website",
             "stars": 908
@@ -530,7 +530,7 @@
             "archived": false,
             "id": 2967233,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:47:23Z",
+            "last_commit": "2026-08-24T23:39:28Z",
             "owner": "DataDog",
             "repo": "documentation",
             "stars": 614
@@ -590,7 +590,7 @@
             "archived": false,
             "id": 189018814,
             "language": "HTML",
-            "last_commit": "2026-08-24T14:02:37Z",
+            "last_commit": "2026-08-24T16:23:15Z",
             "owner": "spotlightpa",
             "repo": "poor-richard",
             "stars": 31
@@ -674,7 +674,7 @@
             "last_commit": "2026-08-24T09:36:58Z",
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89521
+            "stars": 89535
           }
         },
         {
@@ -697,7 +697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:18.744Z",
+    "last_updated": "2026-08-25T06:06:37.718Z",
     "original_repository": "theNewDynamic/awesome-hugo",
     "original_repository_id": 158039560,
     "original_repository_sha": "1b9e60f84af2d5d7156ad5092d2bc7df4ac6580f",
