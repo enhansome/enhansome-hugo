@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 11180687,
                 "language": "Go",
-                "last_commit": "2026-08-26T17:34:17Z",
+                "last_commit": "2026-08-27T15:00:57Z",
                 "owner": "gohugoio",
                 "repo": "hugo",
-                "stars": 89557
+                "stars": 89558
               }
             }
           ],
@@ -485,10 +485,10 @@
             "archived": false,
             "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-25T19:48:08Z",
+            "last_commit": "2026-08-27T18:22:57Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174661
+            "stars": 174664
           }
         },
         {
@@ -503,7 +503,7 @@
             "last_commit": "2026-08-27T06:05:49Z",
             "owner": "kubernetes",
             "repo": "website",
-            "stars": 5349
+            "stars": 5355
           }
         },
         {
@@ -530,7 +530,7 @@
             "archived": false,
             "id": 2967233,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T10:45:27Z",
+            "last_commit": "2026-08-27T23:04:10Z",
             "owner": "DataDog",
             "repo": "documentation",
             "stars": 615
@@ -590,7 +590,7 @@
             "archived": false,
             "id": 189018814,
             "language": "HTML",
-            "last_commit": "2026-08-27T07:57:06Z",
+            "last_commit": "2026-08-27T20:46:19Z",
             "owner": "spotlightpa",
             "repo": "poor-richard",
             "stars": 31
@@ -671,10 +671,10 @@
             "archived": false,
             "id": 11180687,
             "language": "Go",
-            "last_commit": "2026-08-26T17:34:17Z",
+            "last_commit": "2026-08-27T15:00:57Z",
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89557
+            "stars": 89558
           }
         },
         {
@@ -697,7 +697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:35.748Z",
+    "last_updated": "2026-08-27T23:14:39.412Z",
     "original_repository_info": {
       "archived": false,
       "id": 158039560,
@@ -705,7 +705,7 @@
       "last_commit": "2025-06-18T16:01:23Z",
       "owner": "theNewDynamic",
       "repo": "awesome-hugo",
-      "stars": 1076
+      "stars": 1078
     },
     "original_repository_sha": "1b9e60f84af2d5d7156ad5092d2bc7df4ac6580f",
     "enhanced_repository": "enhansome/enhansome-hugo",
