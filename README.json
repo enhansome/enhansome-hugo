@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world’s fastest framework for building websites.",
+                "homepage": "https://gohugo.io",
                 "id": 11180687,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T11:03:10Z",
+                "open_issues": 245,
                 "owner": "gohugoio",
                 "repo": "hugo",
-                "stars": 89569
+                "stars": 89572,
+                "topics": [
+                  "blog-engine",
+                  "cms",
+                  "content-management-system",
+                  "documentation-tool",
+                  "go",
+                  "hugo",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-28T23:13:35.306Z"
             }
@@ -35,12 +48,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Best practices and ideas for Hugo the open-source static site generator.",
+                "homepage": "https://www.spech.de",
                 "id": 154175666,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-03-23T10:50:33Z",
+                "open_issues": 0,
                 "owner": "spech66",
                 "repo": "hugo-best-practices",
-                "stars": 295
+                "stars": 295,
+                "topics": [
+                  "best-practices",
+                  "checklist",
+                  "hugo",
+                  "hugo-documentation",
+                  "hugo-site",
+                  "hugo-theme"
+                ]
               },
               "first_seen": "2026-08-28T23:13:35.306Z"
             }
@@ -62,12 +87,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A CLI tool that converts exported Medium posts (html) to Jekyll/Hugo compatible markdown with front matter.",
+            "homepage": "https://www.npmjs.com/package/medium-2-md",
             "id": 160074951,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-16T11:35:37Z",
+            "open_issues": 5,
             "owner": "gautamdhameja",
             "repo": "medium-2-md",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "frontmatter",
+              "html",
+              "html-to-markdown",
+              "hugo",
+              "jekyll",
+              "markdown",
+              "medium"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -78,12 +116,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is HUGE! A Hugo framework.",
+            "homepage": null,
             "id": 384494521,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-06-20T13:29:20Z",
+            "open_issues": 18,
             "owner": "theNewDynamic",
             "repo": "huge",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "golang",
+              "hugo",
+              "ssg",
+              "ssg-hugo"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         }
@@ -100,12 +148,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.",
+            "homepage": "https://github.com/marketplace/actions/hugo-setup",
             "id": 187902720,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T02:06:14Z",
+            "open_issues": 29,
             "owner": "peaceiris",
             "repo": "actions-hugo",
-            "stars": 1574
+            "stars": 1575,
+            "topics": [
+              "actions",
+              "github-actions",
+              "hugo"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -116,12 +173,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
+            "homepage": null,
             "id": 62660511,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-23T20:45:28Z",
+            "open_issues": 25,
             "owner": "netlify-templates",
             "repo": "victor-hugo",
-            "stars": 1508
+            "stars": 1508,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -132,12 +194,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hugo + Gulp starter project",
+            "homepage": null,
             "id": 33946486,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-07T18:24:54Z",
+            "open_issues": 0,
             "owner": "jbrodriguez",
             "repo": "hugulp",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "asset-pipeline",
+              "fingerprint",
+              "gulp",
+              "hugo"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -148,12 +220,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple landing page built with Hugo and Tailwind CSS",
+            "homepage": "https://awesome.ttntm.me",
             "id": 279887263,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-02-14T08:41:10Z",
+            "open_issues": 3,
             "owner": "ttntm",
             "repo": "hugo-landing-page",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "hugo",
+              "hugo-theme",
+              "landing-page",
+              "single-page-site",
+              "tailwind-css"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -164,12 +247,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Binary wrapper for Hugo",
+            "homepage": null,
             "id": 60016210,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T09:47:34Z",
+            "open_issues": 6,
             "owner": "fenneclab",
             "repo": "hugo-bin",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "bin-wrapper",
+              "hugo",
+              "node"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -180,12 +272,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hugo's Pipes functionality using TailwindCSS and PurgeCSS",
+            "homepage": null,
             "id": 142098994,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-06T17:39:52Z",
+            "open_issues": 2,
             "owner": "budparr",
             "repo": "hugopipes-tailwindcss",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "hugo",
+              "postcss",
+              "purgecss",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -196,12 +298,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Docker image for Hugo, the static-site generator. This image focuses on a CI use-case, not production. Includes HTMLProofer for testing.",
+            "homepage": "https://hub.docker.com/r/hubci/hugo/",
             "id": 85594334,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2026-08-12T20:57:56Z",
+            "open_issues": 3,
             "owner": "hubci",
             "repo": "hugo-docker",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "circleci",
+              "docker",
+              "html-proofer",
+              "hubci",
+              "hugo",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -212,12 +326,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hugo and Webpack boilerplate.",
+            "homepage": null,
             "id": 83586439,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-09-30T17:51:36Z",
+            "open_issues": 2,
             "owner": "vseventer",
             "repo": "hugo-webpack-boilerplate",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "boilerplate",
+              "hugo",
+              "hugo-boilerplate",
+              "webpack",
+              "webpack-boilerplate"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -228,12 +353,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitHub Action to build Hugo site.",
+            "homepage": null,
             "id": 172324663,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-13T10:15:40Z",
+            "open_issues": 2,
             "owner": "lowply",
             "repo": "build-hugo",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "github-actions",
+              "hugo"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -244,12 +377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hugo Starter with Gulp Asset Pipeline, SVG Icons, partials for global components, metadata, and social. ",
+            "homepage": null,
             "id": 49848358,
             "language": "CSS",
+            "license": null,
             "last_commit": "2018-04-24T19:08:57Z",
+            "open_issues": 1,
             "owner": "rdwatters",
             "repo": "hugo-starter",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -260,12 +398,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A boilerplate for Hugo sites based on Tailwind CSS.",
+            "homepage": "https://ttntm.me/blog/hugo-tailwind-boilerplate/",
             "id": 255059723,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-20T17:48:30Z",
+            "open_issues": 0,
             "owner": "ttntm",
             "repo": "hugo-tailwind-boilerplate",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "boilerplate",
+              "gulp",
+              "hugo",
+              "hugo-boilerplate",
+              "hugo-tailwind-boilerplate",
+              "tailwind",
+              "tailwindcss",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -276,12 +428,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": "https://cocky-pare-3da5d5.netlify.app/",
             "id": 468727682,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2022-03-12T16:39:41Z",
+            "open_issues": 0,
             "owner": "BenjaminPrice",
             "repo": "hugo-tailwind3-starter",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "gohugo",
+              "gohugo-theme",
+              "hugo",
+              "tailwind",
+              "tailwind-css",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -292,12 +456,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A basic Starter for HUGE",
+            "homepage": null,
             "id": 402105671,
             "language": "SCSS",
+            "license": null,
             "last_commit": "2021-09-23T15:56:38Z",
+            "open_issues": 1,
             "owner": "theNewDynamic",
             "repo": "huge-starter",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -308,12 +477,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Huge Starter Tailwind + React",
+            "homepage": null,
             "id": 402552864,
             "language": "SCSS",
+            "license": null,
             "last_commit": "2023-09-11T16:48:46Z",
+            "open_issues": 1,
             "owner": "theNewDynamic",
             "repo": "huge-starter-tailwind-react",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -324,12 +498,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter for developing hugo templates",
+            "homepage": "https://hugo-theme-starter.vercel.app/",
             "id": 510537937,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-20T18:17:52Z",
+            "open_issues": 0,
             "owner": "misitebao",
             "repo": "hugo-theme-starter",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "develop-hugo",
+              "hugo",
+              "hugo-theme",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         }
@@ -346,12 +530,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Hugo theme component to display nice notices",
+            "homepage": null,
             "id": 173473490,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-15T21:03:03Z",
+            "open_issues": 2,
             "owner": "martignoni",
             "repo": "hugo-notice",
-            "stars": 278
+            "stars": 278,
+            "topics": [
+              "hugo",
+              "hugo-theme-component",
+              "multilingual",
+              "notice"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -362,12 +556,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Hugo theme component to cloak email adresses",
+            "homepage": null,
             "id": 169308708,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-20T05:57:20Z",
+            "open_issues": 3,
             "owner": "martignoni",
             "repo": "hugo-cloak-email",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "antispam",
+              "email",
+              "hugo",
+              "hugo-theme-component"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -378,12 +582,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 Easily manage your bibliography and in-text citations with Hugo, the popular static-site generator.",
+            "homepage": "https://labs.loupbrun.ca/hugo-cite/",
             "id": 254955331,
             "language": "HTML",
+            "license": "WTFPL",
             "last_commit": "2024-05-24T16:46:39Z",
+            "open_issues": 37,
             "owner": "loup-brun",
             "repo": "hugo-cite",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "bibliography",
+              "citations",
+              "csl-json",
+              "hugo",
+              "shortcode",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -394,12 +610,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Chart.js component for Hugo. :chart_with_upwards_trend:",
+            "homepage": null,
             "id": 299220500,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-17T16:11:34Z",
+            "open_issues": 4,
             "owner": "shen-yu",
             "repo": "hugo-chart",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "chartjs",
+              "hugo",
+              "hugo-chart",
+              "hugo-theme",
+              "shortcode"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -410,12 +637,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 521521246,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-06-02T13:07:11Z",
+            "open_issues": 6,
             "owner": "future-wd",
             "repo": "hugo-responsive-images",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -426,12 +658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A theme components to enable easy redirection in Hugo sites",
+            "homepage": null,
             "id": 261793082,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2021-03-14T20:13:00Z",
+            "open_issues": 5,
             "owner": "gcc42",
             "repo": "hugo-redirect",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -442,12 +679,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hugo theme component to add social metadata to your Hugo site with minimal configuration",
+            "homepage": "https://msfjarvis.dev/posts/adding-social-metadata-to-your-hugo-sites/",
             "id": 237826178,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-04-06T07:24:33Z",
+            "open_issues": 0,
             "owner": "msfjarvis",
             "repo": "hugo-social-metadata",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "hugo",
+              "hugo-theme-component",
+              "social-metadata"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -458,12 +704,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Hugo theme component to generate Lorem ipsum",
+            "homepage": null,
             "id": 178369301,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2019-03-29T09:01:27Z",
+            "open_issues": 0,
             "owner": "martignoni",
             "repo": "hugo-loremipsum",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "hugo",
+              "hugo-theme-component",
+              "lorem",
+              "lorem-ipsum",
+              "lorem-ipsum-generator"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -474,12 +731,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 544305936,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-06-21T12:38:27Z",
+            "open_issues": 0,
             "owner": "future-wd",
             "repo": "hugo-inline-svg",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -490,12 +752,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hugo shortcode for github-calendar.js",
+            "homepage": null,
             "id": 586223771,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-03-31T10:21:47Z",
+            "open_issues": 0,
             "owner": "totoroot",
             "repo": "hugo-github-calendar",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "github-calendar",
+              "github-calendar-shortcode",
+              "github-contribution-graph",
+              "github-contributions",
+              "hugo",
+              "hugo-shortcode",
+              "hugo-theme",
+              "hugo-theme-component",
+              "shortcode",
+              "ssg",
+              "ssg-hugo"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         }
@@ -512,12 +791,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "homepage": "https://getbootstrap.com",
             "id": 2126244,
             "language": "MDX",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:30:38Z",
+            "open_issues": 224,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174667
+            "stars": 174667,
+            "topics": [
+              "bootstrap",
+              "css",
+              "css-framework",
+              "html",
+              "javascript",
+              "sass",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -528,12 +820,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes website and documentation repo: ",
+            "homepage": "https://kubernetes.io",
             "id": 51478266,
             "language": "HTML",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-28T15:04:04Z",
+            "open_issues": 1060,
             "owner": "kubernetes",
             "repo": "website",
-            "stars": 5363
+            "stars": 5363,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -544,12 +841,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let's Encrypt Website and Documentation",
+            "homepage": "https://letsencrypt.org",
             "id": 62476427,
             "language": "HTML",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T10:16:35Z",
+            "open_issues": 41,
             "owner": "letsencrypt",
             "repo": "website",
-            "stars": 907
+            "stars": 907,
+            "topics": [
+              "acme",
+              "hugo",
+              "isrg",
+              "letsencrypt"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -560,12 +867,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source for Datadog's documentation site.",
+            "homepage": "http://docs.datadoghq.com",
             "id": 2967233,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T23:09:16Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:56:19Z",
+            "open_issues": 438,
             "owner": "DataDog",
             "repo": "documentation",
-            "stars": 615
+            "stars": 615,
+            "topics": [
+              "datadog",
+              "documentation",
+              "hacktoberfest",
+              "hugo",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -576,12 +894,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forestry.io website",
+            "homepage": "https://forestry.io",
             "id": 115075945,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-07-19T00:41:48Z",
+            "open_issues": 47,
             "owner": "forestryio",
             "repo": "forestry.io",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "cms",
+              "forestry",
+              "hugo",
+              "jamstack"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -592,12 +920,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repository contains the files and infrastructure to run the legacy vote.gov website.",
+            "homepage": "https://vote.gov/",
             "id": 57156495,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-11T09:38:19Z",
+            "open_issues": 8,
             "owner": "usagov",
             "repo": "vote-gov",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "hugo"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -608,12 +943,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blog on statistics and R aiming at helping academics and professionals working with data to grasp important concepts in statistics and to apply them in R.",
+            "homepage": "http://statsandr.com/",
             "id": 228437645,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T12:47:01Z",
+            "open_issues": 0,
             "owner": "AntoineSoetewey",
             "repo": "statsandr",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "blog",
+              "giscus",
+              "r",
+              "rmarkdown",
+              "rstudio",
+              "shiny",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -624,12 +972,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static site for Spotlight PA",
+            "homepage": "https://www.spotlightpa.org",
             "id": 189018814,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:12:21Z",
+            "open_issues": 2,
             "owner": "spotlightpa",
             "repo": "poor-richard",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -640,12 +993,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tomango website",
+            "homepage": "https://www.tomango.co.uk",
             "id": 150718754,
             "language": "HTML",
+            "license": null,
             "last_commit": "2018-09-28T09:56:20Z",
+            "open_issues": 0,
             "owner": "trys",
             "repo": "tomango-2018",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -656,12 +1014,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rick Cogley's personal site, created in Hugo and based on Basscss. ",
+            "homepage": "http://rick.cogley.info",
             "id": 34147361,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-04-05T08:23:29Z",
+            "open_issues": 2,
             "owner": "RickCogley",
             "repo": "RCC-Hugo2015",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -672,12 +1035,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Photography website created using GoHugo",
+            "homepage": null,
             "id": 92753679,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2018-10-28T18:13:16Z",
+            "open_issues": 0,
             "owner": "matfin",
             "repo": "cinematt",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -688,12 +1056,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "eSolia's .com and .co.jp sites, first launched in 2018.",
+            "homepage": null,
             "id": 127094401,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-11-16T10:03:37Z",
+            "open_issues": 16,
             "owner": "eSolia",
             "repo": "eSolia_2018",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "hugo",
+              "japan",
+              "static-site",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         }
@@ -710,12 +1088,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The world’s fastest framework for building websites.",
+            "homepage": "https://gohugo.io",
             "id": 11180687,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:03:10Z",
+            "open_issues": 245,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89569
+            "stars": 89572,
+            "topics": [
+              "blog-engine",
+              "cms",
+              "content-management-system",
+              "documentation-tool",
+              "go",
+              "hugo",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         },
@@ -726,12 +1117,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, fuzzy, client-side search template for Hugo",
+            "homepage": "https://hugo-client-side-search-template.netlify.app/",
             "id": 513744827,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-13T19:02:04Z",
+            "open_issues": 0,
             "owner": "zwbetz-gh",
             "repo": "hugo-client-side-search-template",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "fusejs",
+              "hugo"
+            ]
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
         }
@@ -740,15 +1139,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:35.306Z",
+    "last_updated": "2026-08-29T04:32:55.399Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to Hugo, The world's fastest framework for building websites.",
+      "homepage": "https://awesome-hugo.dev/",
       "id": 158039560,
       "language": "HTML",
+      "license": "CC0-1.0",
       "last_commit": "2025-06-18T16:01:23Z",
+      "open_issues": 9,
       "owner": "theNewDynamic",
       "repo": "awesome-hugo",
-      "stars": 1078
+      "stars": 1078,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "gohugo",
+        "static-site-generator"
+      ]
     },
     "original_repository_sha": "1b9e60f84af2d5d7156ad5092d2bc7df4ac6580f",
     "enhanced_repository": "enhansome/enhansome-hugo",
