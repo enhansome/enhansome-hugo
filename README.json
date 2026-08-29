@@ -21,7 +21,7 @@
                 "open_issues": 245,
                 "owner": "gohugoio",
                 "repo": "hugo",
-                "stars": 89572,
+                "stars": 89610,
                 "topics": [
                   "blog-engine",
                   "cms",
@@ -796,11 +796,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-08-28T19:30:38Z",
-            "open_issues": 224,
+            "last_commit": "2026-08-29T07:59:32Z",
+            "open_issues": 228,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174667,
+            "stars": 174671,
             "topics": [
               "bootstrap",
               "css",
@@ -825,11 +825,11 @@
             "id": 51478266,
             "language": "HTML",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-08-28T15:04:04Z",
-            "open_issues": 1060,
+            "last_commit": "2026-08-29T09:20:04Z",
+            "open_issues": 1076,
             "owner": "kubernetes",
             "repo": "website",
-            "stars": 5363,
+            "stars": 5365,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 245,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89572,
+            "stars": 89610,
             "topics": [
               "blog-engine",
               "cms",
@@ -1139,7 +1139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:32:55.399Z",
+    "last_updated": "2026-08-29T17:24:43.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hugo, The world's fastest framework for building websites.",
