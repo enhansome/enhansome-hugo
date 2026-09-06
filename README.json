@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-05T09:35:40Z",
-                "open_issues": 221,
+                "open_issues": 223,
                 "owner": "gohugoio",
                 "repo": "hugo",
-                "stars": 89707,
+                "stars": 89718,
                 "topics": [
                   "blog-engine",
                   "cms",
@@ -796,11 +796,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:23:24Z",
-            "open_issues": 231,
+            "last_commit": "2026-09-06T05:49:50Z",
+            "open_issues": 233,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174722,
+            "stars": 174725,
             "topics": [
               "bootstrap",
               "css",
@@ -825,11 +825,11 @@
             "id": 51478266,
             "language": "HTML",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-04T16:36:20Z",
-            "open_issues": 1083,
+            "last_commit": "2026-09-06T13:58:23Z",
+            "open_issues": 1084,
             "owner": "kubernetes",
             "repo": "website",
-            "stars": 5373,
+            "stars": 5379,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
@@ -846,7 +846,7 @@
             "id": 62476427,
             "language": "HTML",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-04T16:54:00Z",
+            "last_commit": "2026-09-05T19:46:35Z",
             "open_issues": 46,
             "owner": "letsencrypt",
             "repo": "website",
@@ -1094,10 +1094,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-05T09:35:40Z",
-            "open_issues": 221,
+            "open_issues": 223,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89707,
+            "stars": 89718,
             "topics": [
               "blog-engine",
               "cms",
@@ -1139,7 +1139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:17:53.344Z",
+    "last_updated": "2026-09-06T16:28:03.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hugo, The world's fastest framework for building websites.",
