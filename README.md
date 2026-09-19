@@ -30,7 +30,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ### Official
 
-* [GitHub](https://github.com/gohugoio/hugo) ⭐ 89,864 | 🐛 218 | 🌐 Go | 📅 2026-09-18
+* [GitHub](https://github.com/gohugoio/hugo) ⭐ 89,859 | 🐛 219 | 🌐 Go | 📅 2026-09-19
 * [Twitter](https://twitter.com/GoHugoIO)
 * [Website](https://gohugo.io/)
   * [News](https://gohugo.io/news/)
@@ -56,7 +56,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Starters
 
-* [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo) ⭐ 1,577 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-17
+* [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo) ⭐ 1,578 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-17
 * [Victor Hugo (starter repo for using Webpack)](https://github.com/netlify/victor-hugo) ⚠️ Archived
 * [Hugo + Gulp starter project](https://github.com/jbrodriguez/hugulp) ⚠️ Archived
 * [Hugo Landing Page](https://github.com/ttntm/hugo-landing-page) ⭐ 124 | 🐛 3 | 🌐 HTML | 📅 2024-02-14 ([demo](https://awesome.ttntm.me))
@@ -88,10 +88,10 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Projects using Hugo
 
-* [Bootstrap](https://getbootstrap.com/) [(repo)](https://github.com/twbs/bootstrap) ⭐ 174,844 | 🐛 237 | 🌐 MDX | 📅 2026-09-15
-* [Kubernetes](https://kubernetes.io/) [(repo)](https://github.com/kubernetes/website) ⭐ 5,388 | 🐛 1,061 | 🌐 HTML | 📅 2026-09-18
-* [Let's Encrypt](https://letsencrypt.org/) [(repo)](https://github.com/letsencrypt/website) ⭐ 909 | 🐛 47 | 🌐 HTML | 📅 2026-09-17
-* [Datadoghq](https://www.datadoghq.com/) [(repo)](https://github.com/DataDog/documentation) ⭐ 618 | 🐛 493 | 🌐 JavaScript | 📅 2026-09-18
+* [Bootstrap](https://getbootstrap.com/) [(repo)](https://github.com/twbs/bootstrap) ⭐ 174,849 | 🐛 238 | 🌐 MDX | 📅 2026-09-15
+* [Kubernetes](https://kubernetes.io/) [(repo)](https://github.com/kubernetes/website) ⭐ 5,389 | 🐛 1,060 | 🌐 HTML | 📅 2026-09-19
+* [Let's Encrypt](https://letsencrypt.org/) [(repo)](https://github.com/letsencrypt/website) ⭐ 909 | 🐛 47 | 🌐 HTML | 📅 2026-09-19
+* [Datadoghq](https://www.datadoghq.com/) [(repo)](https://github.com/DataDog/documentation) ⭐ 618 | 🐛 483 | 🌐 JavaScript | 📅 2026-09-19
 * [Forestry.io](https://forestry.io/) [(repo)](https://github.com/forestryio/forestry.io) ⭐ 286 | 🐛 47 | 🌐 HTML | 📅 2023-07-19
 * [Vote.gov](https://vote.gov/) [(repo)](https://github.com/18F/vote-gov) ⚠️ Archived
 * [statsandr.com](https://www.statsandr.com/) [(repo)](https://github.com/AntoineSoetewey/statsandr) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01
@@ -136,7 +136,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Articles
 
-* [Major Release for Hugo](https://github.com/spf13/hugo/releases/) ⭐ 89,864 | 🐛 218 | 🌐 Go | 📅 2026-09-18 - By Steve Francia.
+* [Major Release for Hugo](https://github.com/spf13/hugo/releases/) ⭐ 89,859 | 🐛 219 | 🌐 Go | 📅 2026-09-19 - By Steve Francia.
 * [A lightweight, fuzzy, client-side search template for Hugo](https://github.com/zwbetz-gh/hugo-client-side-search-template) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2024-11-13 - By Zachary Betz.
 * [Hugo: Beyond the Defaults](https://npf.io/2014/08/hugo-beyond-the-defaults/) - By Nate Finch.
 * [6 Static Blog Generators That Aren't Jekyll](https://www.sitepoint.com/6-static-blog-generators-arent-jekyll/) - By David Turnbull, Sitepoint.
@@ -283,4 +283,4 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
