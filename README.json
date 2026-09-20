@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T16:22:44Z",
-                "open_issues": 219,
+                "open_issues": 221,
                 "owner": "gohugoio",
                 "repo": "hugo",
-                "stars": 89859,
+                "stars": 89869,
                 "topics": [
                   "blog-engine",
                   "cms",
@@ -797,10 +797,10 @@
             "language": "MDX",
             "license": "MIT",
             "last_commit": "2026-09-15T11:10:39Z",
-            "open_issues": 238,
+            "open_issues": 240,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174849,
+            "stars": 174865,
             "topics": [
               "bootstrap",
               "css",
@@ -825,11 +825,11 @@
             "id": 51478266,
             "language": "HTML",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-19T15:03:57Z",
-            "open_issues": 1060,
+            "last_commit": "2026-09-20T16:05:57Z",
+            "open_issues": 1041,
             "owner": "kubernetes",
             "repo": "website",
-            "stars": 5389,
+            "stars": 5390,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
@@ -1094,10 +1094,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-19T16:22:44Z",
-            "open_issues": 219,
+            "open_issues": 221,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89859,
+            "stars": 89869,
             "topics": [
               "blog-engine",
               "cms",
@@ -1139,7 +1139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:49:45.915Z",
+    "last_updated": "2026-09-20T17:02:47.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hugo, The world's fastest framework for building websites.",
