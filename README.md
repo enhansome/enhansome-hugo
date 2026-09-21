@@ -30,7 +30,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ### Official
 
-* [GitHub](https://github.com/gohugoio/hugo) ⭐ 89,869 | 🐛 221 | 🌐 Go | 📅 2026-09-19
+* [GitHub](https://github.com/gohugoio/hugo) ⭐ 89,892 | 🐛 221 | 🌐 Go | 📅 2026-09-21
 * [Twitter](https://twitter.com/GoHugoIO)
 * [Website](https://gohugo.io/)
   * [News](https://gohugo.io/news/)
@@ -56,7 +56,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Starters
 
-* [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo) ⭐ 1,578 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-17
+* [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo) ⭐ 1,578 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-21
 * [Victor Hugo (starter repo for using Webpack)](https://github.com/netlify/victor-hugo) ⚠️ Archived
 * [Hugo + Gulp starter project](https://github.com/jbrodriguez/hugulp) ⚠️ Archived
 * [Hugo Landing Page](https://github.com/ttntm/hugo-landing-page) ⭐ 124 | 🐛 3 | 🌐 HTML | 📅 2024-02-14 ([demo](https://awesome.ttntm.me))
@@ -76,7 +76,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 ## Theme Components
 
 * [hugo-notice](https://github.com/martignoni/hugo-notice) ⭐ 277 | 🐛 2 | 🌐 HTML | 📅 2026-01-15 - A Hugo theme component to display nice notices.
-* [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) ⭐ 142 | 🐛 3 | 🌐 HTML | 📅 2024-09-20 - A Hugo theme component to cloak email addresses.
+* [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) ⭐ 141 | 🐛 3 | 🌐 HTML | 📅 2024-09-20 - A Hugo theme component to cloak email addresses.
 * [hugo-cite](https://github.com/loup-brun/hugo-cite) ⭐ 125 | 🐛 37 | 🌐 HTML | 📅 2024-05-24 - A Hugo theme component which uses CSL-JSON to create (academic) bibliography sections for pages and posts.
 * [hugo-chart](https://github.com/Shen-Yu/hugo-chart) ⭐ 102 | 🐛 4 | 🌐 Go | 📅 2023-05-17 - A Hugo theme component to display beautiful Charts.
 * [hugo-responsive-images](https://github.com/future-wd/hugo-responsive-images) ⭐ 70 | 🐛 6 | 🌐 HTML | 📅 2026-06-02 - A Hugo theme component for generating responsive images with srcset tags. Supports lazysizes for automatic sizes property and lazyloading polyfill.
@@ -88,14 +88,14 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Projects using Hugo
 
-* [Bootstrap](https://getbootstrap.com/) [(repo)](https://github.com/twbs/bootstrap) ⭐ 174,865 | 🐛 240 | 🌐 MDX | 📅 2026-09-15
-* [Kubernetes](https://kubernetes.io/) [(repo)](https://github.com/kubernetes/website) ⭐ 5,390 | 🐛 1,041 | 🌐 HTML | 📅 2026-09-20
-* [Let's Encrypt](https://letsencrypt.org/) [(repo)](https://github.com/letsencrypt/website) ⭐ 909 | 🐛 47 | 🌐 HTML | 📅 2026-09-19
-* [Datadoghq](https://www.datadoghq.com/) [(repo)](https://github.com/DataDog/documentation) ⭐ 618 | 🐛 483 | 🌐 JavaScript | 📅 2026-09-19
+* [Bootstrap](https://getbootstrap.com/) [(repo)](https://github.com/twbs/bootstrap) ⭐ 174,885 | 🐛 239 | 🌐 MDX | 📅 2026-09-21
+* [Kubernetes](https://kubernetes.io/) [(repo)](https://github.com/kubernetes/website) ⭐ 5,390 | 🐛 1,037 | 🌐 HTML | 📅 2026-09-21
+* [Let's Encrypt](https://letsencrypt.org/) [(repo)](https://github.com/letsencrypt/website) ⭐ 909 | 🐛 47 | 🌐 HTML | 📅 2026-09-21
+* [Datadoghq](https://www.datadoghq.com/) [(repo)](https://github.com/DataDog/documentation) ⭐ 618 | 🐛 494 | 🌐 JavaScript | 📅 2026-09-21
 * [Forestry.io](https://forestry.io/) [(repo)](https://github.com/forestryio/forestry.io) ⭐ 286 | 🐛 47 | 🌐 HTML | 📅 2023-07-19
 * [Vote.gov](https://vote.gov/) [(repo)](https://github.com/18F/vote-gov) ⚠️ Archived
 * [statsandr.com](https://www.statsandr.com/) [(repo)](https://github.com/AntoineSoetewey/statsandr) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01
-* [SpotlightPA](https://www.spotlightpa.org/) [(repo)](https://github.com/spotlightpa/poor-richard) ⭐ 30 | 🐛 2 | 🌐 HTML | 📅 2026-09-18
+* [SpotlightPA](https://www.spotlightpa.org/) [(repo)](https://github.com/spotlightpa/poor-richard) ⭐ 30 | 🐛 2 | 🌐 HTML | 📅 2026-09-21
 * [Tomango](https://www.tomango.co.uk/) [(repo)](https://github.com/trys/tomango-2018) ⭐ 21 | 🐛 0 | 🌐 HTML | 📅 2018-09-28
 * [Rick Cogley Central](https://rick.cogley.info/) [(repo)](https://github.com/RickCogley/RCC-Hugo2015) ⚠️ Archived
 * [Cinematt](https://cinematt.photography) [(repo)](https://github.com/matfin/cinematt) ⚠️ Archived
@@ -136,7 +136,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 
 ## Articles
 
-* [Major Release for Hugo](https://github.com/spf13/hugo/releases/) ⭐ 89,869 | 🐛 221 | 🌐 Go | 📅 2026-09-19 - By Steve Francia.
+* [Major Release for Hugo](https://github.com/spf13/hugo/releases/) ⭐ 89,892 | 🐛 221 | 🌐 Go | 📅 2026-09-21 - By Steve Francia.
 * [A lightweight, fuzzy, client-side search template for Hugo](https://github.com/zwbetz-gh/hugo-client-side-search-template) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2024-11-13 - By Zachary Betz.
 * [Hugo: Beyond the Defaults](https://npf.io/2014/08/hugo-beyond-the-defaults/) - By Nate Finch.
 * [6 Static Blog Generators That Aren't Jekyll](https://www.sitepoint.com/6-static-blog-generators-arent-jekyll/) - By David Turnbull, Sitepoint.
@@ -283,4 +283,4 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
