@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T17:33:28Z",
-                "open_issues": 201,
+                "open_issues": 205,
                 "owner": "gohugoio",
                 "repo": "hugo",
-                "stars": 90016,
+                "stars": 90023,
                 "topics": [
                   "blog-engine",
                   "cms",
@@ -53,7 +53,7 @@
                 "id": 154175666,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2024-03-23T10:50:33Z",
+                "last_commit": "2026-10-03T06:48:58Z",
                 "open_issues": 0,
                 "owner": "spech66",
                 "repo": "hugo-best-practices",
@@ -800,7 +800,7 @@
             "open_issues": 229,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174984,
+            "stars": 174986,
             "topics": [
               "bootstrap",
               "css",
@@ -825,11 +825,11 @@
             "id": 51478266,
             "language": "HTML",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-02T23:11:20Z",
-            "open_issues": 1064,
+            "last_commit": "2026-10-03T15:21:21Z",
+            "open_issues": 1053,
             "owner": "kubernetes",
             "repo": "website",
-            "stars": 5397,
+            "stars": 5398,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
@@ -872,8 +872,8 @@
             "id": 2967233,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T00:01:14Z",
-            "open_issues": 424,
+            "last_commit": "2026-10-03T12:22:47Z",
+            "open_issues": 425,
             "owner": "DataDog",
             "repo": "documentation",
             "stars": 621,
@@ -1094,10 +1094,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T17:33:28Z",
-            "open_issues": 201,
+            "open_issues": 205,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 90016,
+            "stars": 90023,
             "topics": [
               "blog-engine",
               "cms",
@@ -1139,7 +1139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:51:21.698Z",
+    "last_updated": "2026-10-03T17:38:41.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hugo, The world's fastest framework for building websites.",
