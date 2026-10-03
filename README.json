@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "gohugoio/hugo",
-              "description": null,
+              "description": "gohugoio/hugo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 201,
                 "owner": "gohugoio",
                 "repo": "hugo",
-                "stars": 90013,
+                "stars": 90016,
                 "topics": [
                   "blog-engine",
                   "cms",
@@ -44,7 +44,7 @@
             {
               "node_type": "item",
               "title": "Hugo Best Practices",
-              "description": null,
+              "description": "spech66/hugo-best-practices",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -83,7 +83,7 @@
         {
           "node_type": "item",
           "title": "medium-2-md, Converts medium posts (html) into Jekyll/Hugo compatible markdown files",
-          "description": null,
+          "description": "gautamdhameja/medium-2-md",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -112,7 +112,7 @@
         {
           "node_type": "item",
           "title": "HUGE - A Hugo Framework",
-          "description": null,
+          "description": "theNewDynamic/huge",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -144,7 +144,7 @@
         {
           "node_type": "item",
           "title": "GitHub Actions for Hugo extended",
-          "description": null,
+          "description": "peaceiris/actions-hugo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -169,7 +169,7 @@
         {
           "node_type": "item",
           "title": "Victor Hugo (starter repo for using Webpack)",
-          "description": null,
+          "description": "netlify-templates/victor-hugo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -190,7 +190,7 @@
         {
           "node_type": "item",
           "title": "Hugo + Gulp starter project",
-          "description": null,
+          "description": "jbrodriguez/hugulp",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -203,7 +203,7 @@
             "open_issues": 0,
             "owner": "jbrodriguez",
             "repo": "hugulp",
-            "stars": 154,
+            "stars": 153,
             "topics": [
               "asset-pipeline",
               "fingerprint",
@@ -216,7 +216,7 @@
         {
           "node_type": "item",
           "title": "Hugo Landing Page",
-          "description": "(demo)",
+          "description": "ttntm/hugo-landing-page",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -243,7 +243,7 @@
         {
           "node_type": "item",
           "title": "hugo-bin: Binary wrapper for Hugo",
-          "description": null,
+          "description": "fenneclab/hugo-bin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -268,7 +268,7 @@
         {
           "node_type": "item",
           "title": "Hugo's Pipes functionality using TailwindCSS and PurgeCSS",
-          "description": null,
+          "description": "budparr/hugopipes-tailwindcss",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -294,7 +294,7 @@
         {
           "node_type": "item",
           "title": "Docker Image for Hugo",
-          "description": null,
+          "description": "hubci/hugo-docker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -322,7 +322,7 @@
         {
           "node_type": "item",
           "title": "Hugo Webpack Boilerplate",
-          "description": null,
+          "description": "vseventer/hugo-webpack-boilerplate",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -349,7 +349,7 @@
         {
           "node_type": "item",
           "title": "GitHub Action to build Hugo site",
-          "description": null,
+          "description": "lowply/build-hugo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -373,7 +373,7 @@
         {
           "node_type": "item",
           "title": "Hugo Starter with Gulp Asset Pipeline, SVG Icons, partials for global components, metadata, and social.",
-          "description": null,
+          "description": "rdwatters/hugo-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -394,7 +394,7 @@
         {
           "node_type": "item",
           "title": "Hugo + Tailwind boilerplate",
-          "description": null,
+          "description": "ttntm/hugo-tailwind-boilerplate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -424,7 +424,7 @@
         {
           "node_type": "item",
           "title": "Hugo + Tailwind 3 - SEO Optimized Starter",
-          "description": null,
+          "description": "BenjaminPrice/hugo-tailwind3-starter",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -452,7 +452,7 @@
         {
           "node_type": "item",
           "title": "HUGE starter: PostCSS, Tailwind and React",
-          "description": null,
+          "description": "theNewDynamic/huge-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -473,7 +473,7 @@
         {
           "node_type": "item",
           "title": "HUGE basic starter: NPM free, SCSS and vanilla JS",
-          "description": null,
+          "description": "theNewDynamic/huge-starter-tailwind-react",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -494,7 +494,7 @@
         {
           "node_type": "item",
           "title": "Hugo Theme Starter",
-          "description": null,
+          "description": "misitebao/hugo-theme-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -787,7 +787,7 @@
         {
           "node_type": "item",
           "title": "Bootstrap",
-          "description": "(repo)",
+          "description": "twbs/bootstrap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -800,7 +800,7 @@
             "open_issues": 229,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174975,
+            "stars": 174984,
             "topics": [
               "bootstrap",
               "css",
@@ -816,7 +816,7 @@
         {
           "node_type": "item",
           "title": "Kubernetes",
-          "description": "(repo)",
+          "description": "kubernetes/website",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -825,11 +825,11 @@
             "id": 51478266,
             "language": "HTML",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-02T17:51:21Z",
-            "open_issues": 1063,
+            "last_commit": "2026-10-02T23:11:20Z",
+            "open_issues": 1064,
             "owner": "kubernetes",
             "repo": "website",
-            "stars": 5398,
+            "stars": 5397,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
@@ -837,7 +837,7 @@
         {
           "node_type": "item",
           "title": "Let's Encrypt",
-          "description": "(repo)",
+          "description": "letsencrypt/website",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -863,7 +863,7 @@
         {
           "node_type": "item",
           "title": "Datadoghq",
-          "description": "(repo)",
+          "description": "DataDog/documentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -872,8 +872,8 @@
             "id": 2967233,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:38:31Z",
-            "open_issues": 425,
+            "last_commit": "2026-10-03T00:01:14Z",
+            "open_issues": 424,
             "owner": "DataDog",
             "repo": "documentation",
             "stars": 621,
@@ -890,7 +890,7 @@
         {
           "node_type": "item",
           "title": "Forestry.io",
-          "description": "(repo)",
+          "description": "forestryio/forestry.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -916,7 +916,7 @@
         {
           "node_type": "item",
           "title": "Vote.gov",
-          "description": "(repo)",
+          "description": "usagov/vote-gov",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -939,7 +939,7 @@
         {
           "node_type": "item",
           "title": "statsandr.com",
-          "description": "(repo)",
+          "description": "AntoineSoetewey/statsandr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -968,7 +968,7 @@
         {
           "node_type": "item",
           "title": "SpotlightPA",
-          "description": "(repo)",
+          "description": "spotlightpa/poor-richard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -977,7 +977,7 @@
             "id": 189018814,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-02T17:34:36Z",
+            "last_commit": "2026-10-03T01:54:45Z",
             "open_issues": 1,
             "owner": "spotlightpa",
             "repo": "poor-richard",
@@ -989,7 +989,7 @@
         {
           "node_type": "item",
           "title": "Tomango",
-          "description": "(repo)",
+          "description": "trys/tomango-2018",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1010,7 +1010,7 @@
         {
           "node_type": "item",
           "title": "Rick Cogley Central",
-          "description": "(repo)",
+          "description": "RickCogley/RCC-Hugo2015",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1031,7 +1031,7 @@
         {
           "node_type": "item",
           "title": "Cinematt",
-          "description": "(repo)",
+          "description": "matfin/cinematt",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1052,7 +1052,7 @@
         {
           "node_type": "item",
           "title": "eSolia",
-          "description": "(repo)",
+          "description": "eSolia/eSolia_2018",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1097,7 +1097,7 @@
             "open_issues": 201,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 90013,
+            "stars": 90016,
             "topics": [
               "blog-engine",
               "cms",
@@ -1139,7 +1139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:43:55.134Z",
+    "last_updated": "2026-10-03T04:51:21.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hugo, The world's fastest framework for building websites.",
