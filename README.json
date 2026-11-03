@@ -17,11 +17,11 @@
                 "id": 11180687,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T21:37:14Z",
-                "open_issues": 216,
+                "last_commit": "2026-11-03T09:47:53Z",
+                "open_issues": 215,
                 "owner": "gohugoio",
                 "repo": "hugo",
-                "stars": 90327,
+                "stars": 90344,
                 "topics": [
                   "blog-engine",
                   "cms",
@@ -157,7 +157,7 @@
             "open_issues": 32,
             "owner": "peaceiris",
             "repo": "actions-hugo",
-            "stars": 1576,
+            "stars": 1577,
             "topics": [
               "actions",
               "github-actions",
@@ -796,11 +796,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-11-02T20:22:56Z",
-            "open_issues": 306,
+            "last_commit": "2026-11-03T19:18:19Z",
+            "open_issues": 313,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174966,
+            "stars": 174969,
             "topics": [
               "bootstrap",
               "css",
@@ -825,11 +825,11 @@
             "id": 51478266,
             "language": "HTML",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-02T20:39:49Z",
-            "open_issues": 1133,
+            "last_commit": "2026-11-03T13:40:37Z",
+            "open_issues": 1375,
             "owner": "kubernetes",
             "repo": "website",
-            "stars": 5417,
+            "stars": 5416,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
@@ -847,7 +847,7 @@
             "language": "HTML",
             "license": "MPL-2.0",
             "last_commit": "2026-10-30T16:32:20Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "letsencrypt",
             "repo": "website",
             "stars": 913,
@@ -872,8 +872,8 @@
             "id": 2967233,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T22:21:06Z",
-            "open_issues": 532,
+            "last_commit": "2026-11-03T20:10:19Z",
+            "open_issues": 526,
             "owner": "DataDog",
             "repo": "documentation",
             "stars": 623,
@@ -977,8 +977,8 @@
             "id": 189018814,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-02T22:20:11Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-03T20:12:11Z",
+            "open_issues": 3,
             "owner": "spotlightpa",
             "repo": "poor-richard",
             "stars": 30,
@@ -1048,32 +1048,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:35.306Z"
-        },
-        {
-          "node_type": "item",
-          "title": "eSolia",
-          "description": "eSolia/eSolia_2018",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "eSolia's .com and .co.jp sites, first launched in 2018.",
-            "homepage": null,
-            "id": 127094401,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2025-11-16T10:03:37Z",
-            "open_issues": 16,
-            "owner": "eSolia",
-            "repo": "eSolia_2018",
-            "stars": 6,
-            "topics": [
-              "hugo",
-              "japan",
-              "static-site",
-              "static-site-generator"
-            ]
-          },
-          "first_seen": "2026-08-28T23:13:35.306Z"
         }
       ],
       "title": "Projects using Hugo"
@@ -1093,11 +1067,11 @@
             "id": 11180687,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T21:37:14Z",
-            "open_issues": 216,
+            "last_commit": "2026-11-03T09:47:53Z",
+            "open_issues": 215,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 90327,
+            "stars": 90344,
             "topics": [
               "blog-engine",
               "cms",
@@ -1139,7 +1113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:28:54.865Z",
+    "last_updated": "2026-11-03T20:17:43.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hugo, The world's fastest framework for building websites.",
